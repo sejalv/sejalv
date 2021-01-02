@@ -8,10 +8,10 @@ I'm a Data Engineer, living in Munich (Germany), originally from Mumbai (India).
 - Field of interest: ML Engineering & MLOps
 - Tech Stack: Python, AWS, Serverless, Spark, Airflow, NoSQL, SQL, Flask, Docker
 
-📢 &nbsp; Featured:
+📢 &nbsp; Contributions:
 - [Containerized ML deployment with AWS Lambda](https://datatalks.club/blog/ml-deployment-lambda.html): Article for [DataTalks.Club](https://datatalks.club/)
 - [Serverless Machine Learning Deployment with AWS](https://www.youtube.com/watch?v=79B8AOKkpho): Workshop for [DataTalks.Club](https://datatalks.club/)
-- [Data Engineering Confessions](https://www.dataengineering.academy/pipeline-data-engineering-academy-blog/idataengineer-confessions-interview-003): Podcast for [Pipeline Data Engineering Academy](https://www.dataengineering.academy/)
+- [Data Engineering Confessions](https://www.dataengineering.academy/pipeline-data-engineering-academy-blog/idataengineer-confessions-interview-003): Podcast interview for [Pipeline Data Engineering Academy](https://www.dataengineering.academy/)
 - [SQL in a Nutshell](https://towardsdatascience.com/sql-in-a-nutshell-part-1-basic-real-world-scenarios-33a25ba8d220): Article published in [Towards Data Science](https://towardsdatascience.com)
 
 ⚡ Personal:
