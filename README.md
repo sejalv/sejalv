@@ -16,6 +16,6 @@ I'm a Data Engineer, living in Munich (Germany), originally from Mumbai (India).
 - [SQL in a Nutshell](https://towardsdatascience.com/sql-in-a-nutshell-part-1-basic-real-world-scenarios-33a25ba8d220): Article published in [Towards Data Science](https://towardsdatascience.com)
 
 ⚡ Personal:
-- In my spare time, I enjoy [books](https://www.goodreads.com/user/show/1483184-sejal), indie cinema & music, coding and writing, playing piano and board games
+- In my spare time, I enjoy [reading](https://www.goodreads.com/user/show/1483184-sejal), indie cinema & music, coding and writing, playing piano and board games
 - Ask me about: Data Engineering, AWS, Books (incl. non-tech)
-- Contact/Profile: [LinkedIn](https://linkedin.com/in/vaidyasejal) | [Twitter](https://twitter.com/sejalv_) | [DataTalks.Club](https://datatalks.club/people/sejalvaidya.html) | [Medium](https://medium.com/@sejalv) 
+- Contact/Profile: [LinkedIn](https://linkedin.com/in/vaidyasejal) | [Twitter](https://twitter.com/sejalv_) | [DataTalks.Club](https://datatalks.club/people/sejalvaidya.html) | [Medium](https://medium.com/@sejalv)
