@@ -1,9 +1,7 @@
 ### Hi, I'm Sejal 👋
 
 I'm a Data/ML Engineer, living in Munich (Germany). 
-<br>
 My core areas of work are Data platforms, Infrastructure, and Cloud Architecture. And I'm particularly interested in topics related to ML Engineering & MLOps.
-<br>
 Tech Stack: Python, AWS, Serverless, Spark, Airflow, NoSQL, SQL, Flask, Docker
 
 📢 &nbsp; Contributions:
