@@ -1,9 +1,8 @@
 Data/ML Engineer, living in Munich (Germany).
-<br>
 - Core areas of work: Data Products, ML Engineering, Product ML, MLOps, Data Platforms & Infrastructure, Cloud Architecture
-<br>
 - Tech Stack: Python, AWS, Serverless, Spark, Airflow, NoSQL, SQL, Flask, Docker
 
+<br>
 📢 &nbsp; Contributions:
 - [Containerized ML deployment with AWS Lambda](https://datatalks.club/blog/ml-deployment-lambda.html) for [DataTalks.Club](https://datatalks.club/)
   - Workshop: [Serverless Machine Learning Deployment with AWS](https://www.youtube.com/watch?v=79B8AOKkpho)
