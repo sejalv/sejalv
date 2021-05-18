@@ -1,6 +1,6 @@
 Data/ML Engineer, living in Munich (Germany).
 <br>
-Core areas of work: Data platforms, Infrastructure, and Cloud Architecture, with a particular interest in topics related to ML Engineering & MLOps.
+Core areas of work: Data Products, ML Engineering, Product ML, MLOps, Data Platforms & Infrastructure, Cloud Architecture
 <br>
 Tech Stack: Python, AWS, Serverless, Spark, Airflow, NoSQL, SQL, Flask, Docker
 
