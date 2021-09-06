@@ -1,10 +1,11 @@
 Data/ML Engineer, living in Munich (Germany).
 - Core areas of work: Data Products, ML Engineering, Production ML, MLOps, Data Platforms & Infrastructure, Cloud Architecture
-- Tech Stack: Python, AWS, Serverless, Spark, Airflow, NoSQL, SQL, Flask, Docker
+- Tech Stack: Python, AWS, Airflow, SQL, NoSQL, Spark, Flask, Docker, Terraform; DS/ML (pandas, numpy, scikit-learn, spacy, MLflow, Sagemaker)
 
 <br>
 
 📢 &nbsp; Contributions:
+- [Data Engineering to MLOps](https://youtu.be/CJmzTa6mA6E) - DTC's minis (2021): Podcast interview for DataTalks.Club
 - [Containerized ML deployment with AWS Lambda](https://datatalks.club/blog/ml-deployment-lambda.html) for [DataTalks.Club](https://datatalks.club/)
   - Workshop: [Serverless Machine Learning Deployment with AWS](https://www.youtube.com/watch?v=79B8AOKkpho)
   - Medium: [Containerized ML deployment with AWS Lambda](https://sejalv.medium.com/containerized-ml-deployment-with-aws-lambda-680540fb92f4)
