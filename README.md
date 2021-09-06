@@ -5,7 +5,7 @@ Data/ML Engineer, living in Munich (Germany).
 <br>
 
 📢 &nbsp; Contributions:
-- [Data Engineering to MLOps](https://youtu.be/CJmzTa6mA6E) - DTC's minis (2021): Podcast interview for DataTalks.Club
+- [Data Engineering to MLOps](https://youtu.be/CJmzTa6mA6E) - DTC's minis (2021): Podcast interview for [DataTalks.Club](https://datatalks.club/)
 - [Containerized ML deployment with AWS Lambda](https://datatalks.club/blog/ml-deployment-lambda.html) for [DataTalks.Club](https://datatalks.club/)
   - Workshop: [Serverless Machine Learning Deployment with AWS](https://www.youtube.com/watch?v=79B8AOKkpho)
   - Medium: [Containerized ML deployment with AWS Lambda](https://sejalv.medium.com/containerized-ml-deployment-with-aws-lambda-680540fb92f4)
