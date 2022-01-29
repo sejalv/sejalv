@@ -12,7 +12,7 @@ Data/ML Engineer - Germany (Berlin, Munich)
 
 📢 &nbsp; **Personal Projects**:
 
-- Instructor at [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) at [DataTalks.Club](https://datatalks.club/)
+- Instructor at [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) (2022) : Course by [DataTalks.Club](https://datatalks.club/)
 - [Data Engineering to MLOps](https://youtu.be/CJmzTa6mA6E) - DTC's minis (2021): Podcast interview for [DataTalks.Club](https://datatalks.club/)
 - [Containerized ML deployment with AWS Lambda](https://datatalks.club/blog/ml-deployment-lambda.html) (2020): Workshop for [DataTalks.Club](https://datatalks.club/)
   - Workshop: [Serverless Machine Learning Deployment with AWS](https://www.youtube.com/watch?v=79B8AOKkpho)
