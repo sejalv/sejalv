@@ -21,4 +21,5 @@ Data/ML Engineer - Germany (Berlin, Munich).
 - [SQL in a Nutshell](https://towardsdatascience.com/sql-in-a-nutshell-part-1-basic-real-world-scenarios-33a25ba8d220): Article published in [Towards Data Science](https://towardsdatascience.com)
 
 ⚡ **Contact/Other Profiles**:
+
 [Twitter](https://twitter.com/sejalv_) | [DataTalks.Club](https://datatalks.club/people/sejalvaidya.html) | [Medium](https://medium.com/@sejalv)
