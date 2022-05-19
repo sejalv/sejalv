@@ -1,7 +1,6 @@
 ### 💼 &nbsp; Bio
-- Sr. Machine Learning Engineer, Berlin
-- 10+ years of experience in the Tech industry, towards the development of Data Products & Data Platforms
-- Currently focussed on ML Engineering, MLOps, Production ML & Systems; Data Infrastructure & Cloud Architecture
+- Data/ML Engineer, with 12 years of Tech industry experience. Currently focussed on Production ML, Platforms & MLOps; ML Engineering & Data Products; Data Infrastructure & Cloud Architecture
+- Active contributor in Data & ML communities.
 - More info on [LinkedIn](https://linkedin.com/in/vaidyasejal)
 - [Twitter](https://twitter.com/sejalv_) | [DataTalks.Club](https://datatalks.club/people/sejalvaidya.html) | [Medium](https://medium.com/@sejalv)
 
