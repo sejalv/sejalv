@@ -1,12 +1,10 @@
 ### 💼 &nbsp; Bio
 - Data/ML Engineer, with 12 years of Tech industry experience. Currently focussed on Production ML, Platforms & MLOps; ML Engineering & Data Products; Data Infrastructure & Cloud Architecture
-- Active contributor in Data & ML communities.
-- More info on [LinkedIn](https://linkedin.com/in/vaidyasejal)
-- [Twitter](https://twitter.com/sejalv_) | [DataTalks.Club](https://datatalks.club/people/sejalvaidya.html) | [Medium](https://medium.com/@sejalv)
+- More info here: [LinkedIn](https://linkedin.com/in/vaidyasejal) | [Twitter](https://twitter.com/sejalv_) | [DataTalks.Club](https://datatalks.club/people/sejalvaidya.html) | [Medium](https://medium.com/@sejalv)
 
 <br>
 
-### 📢 &nbsp; Independent Projects
+### 📢 &nbsp; Independent & Community contributions:
 
 #### [DataTalks.Club](https://datatalks.club/)
 - Co-Instructor for DTC's **Data Engineering Zoomcamp** (2022)
@@ -19,5 +17,3 @@
 #### Misc
 - Podcast interview: [Data Engineering Confessions](https://www.dataengineering.academy/pipeline-data-engineering-academy-blog/idataengineer-confessions-interview-003) with [Pipeline Data Engineering Academy](https://www.dataengineering.academy/) (2020)
 - Article: [SQL in a Nutshell](https://towardsdatascience.com/sql-in-a-nutshell-part-1-basic-real-world-scenarios-33a25ba8d220), published in [Towards Data Science](https://towardsdatascience.com)
-
-
