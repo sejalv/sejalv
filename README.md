@@ -1,6 +1,7 @@
 ### 💼 &nbsp; Bio
-- Data/ML Engineer, with 12 years of experience, across Data/ML platforms, Data Products, Analytics Engineering, spanning early-stage startups to Fortune 500 companies.
-- Currently focussed on MLOps -specific areas such as Experimentation tooling, infrastructure for Model Deployment & Monitoring, and applying Software Engineering/DevOps practices across the ML lifecycle
+- Data & Product Analytics specialist, interested in developing Data/ML Products for Social Good
+- 12+ years of experience, in Data/ML platforms, and Software Engineering, within Healthcare, Digital Health & Wellbeing, and e-commerce sectors
+- Most recently worked on MLOps -specific areas such as Experimentation tooling, infrastructure for Model Deployment & Monitoring, and applying Software Engineering/DevOps practices across the ML lifecycle
 - More info here: [LinkedIn](https://linkedin.com/in/vaidyasejal) | [DataTalks.Club](https://datatalks.club/people/sejalvaidya.html) | [Medium](https://medium.com/@sejalv)
 
 <br>
