@@ -1,6 +1,6 @@
 ### 💼 &nbsp; Bio
 - Data & Product Analytics specialist, interested in shaping Data/ML Products for Social Good
-- 12+ years of experience, in Data/ML platforms, and Software Engineering, within Healthcare, Digital Health & Wellbeing, and e-commerce sectors
+- 12+ years of experience in Data/ML platforms and Software Engineering, within Healthcare, Digital Health & Wellbeing, and e-commerce sectors
 - Most recently worked on MLOps -specific areas such as Experimentation tooling, infrastructure for Model Deployment & Monitoring, and applying Software Engineering/DevOps practices across the ML lifecycle
 - More info here: [LinkedIn](https://linkedin.com/in/vaidyasejal) | [DataTalks.Club](https://datatalks.club/people/sejalvaidya.html) | [Medium](https://medium.com/@sejalv)
 
