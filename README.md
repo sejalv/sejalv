@@ -1,15 +1,15 @@
 ### 💼 &nbsp; Bio
-- Data generalist, with 13+ years of experience in Data/ML Platforms and Software Engineering, across Healthcare, Digital Health and Wellbeing, and e-Commerce sectors. Proficient in MLOps & Cloud architectures, agile management for data science, data-driven decision making, and fostering empathic collaboration with diverse & cross-functional teams to ensure alignment & scalability. Research-driven, analytical & adaptable.
-- Most recently worked on MLOps -specific areas such as Experimentation tooling, infrastructure for Model Deployment & Monitoring, and applying Software Engineering/DevOps practices across the ML lifecycle
-- More info here: [LinkedIn](https://linkedin.com/in/vaidyasejal) | [DataTalks.Club](https://datatalks.club/people/sejalvaidya.html) | [Medium](https://medium.com/@sejalv)
+- Data professional, with 13+ years of experience in building user-centric data products and scalable data architectures in B2C and B2B environments, for Healthcare, Digital Health & Wellbeing, and e-Commerce sectors
+- Proven expertise with leveraging machine learning to derive actionable insights, collaborating cross-functionally with diverse stakeholders on complex technical requirements, and enabling data-driven decision-making to shape effective product and business strategies
+- Volunteer for the [DataTalks.Club](https://datatalks.club/people/sejalvaidya.html) and local Berlin meetups: MLOps Zoomcamp (course instructor), featured in [podcast](https://youtu.be/CJmzTa6mA6E) interviews and conducted AWS workshops
+- More info here: [LinkedIn](https://linkedin.com/in/vaidyasejal) | [Personal Website]([https://datatalks.club/people/sejalvaidya.html](https://sejalvaidya.com))
 
 <br>
 
 ### 📢 &nbsp; Independent & Community contributions:
 
 #### [DataTalks.Club](https://datatalks.club/)
-- Co-Instructor for DTC's **MLOps Engineering Zoomcamp** (2022-Present): [Repo](https://github.com/DataTalksClub/mlops-zoomcamp) | [Videos](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
-- Co-Instructor for DTC's **Data Engineering Zoomcamp** (2022): [Repo](https://github.com/DataTalksClub/data-engineering-zoomcamp) | [Videos](https://youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
+- Co-Instructor for popular self-paced courses - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) and [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - having 20k signups, & impacting 1000s of learners
 - Podcast interview for DTC mini's: [Data Engineering to MLOps](https://youtu.be/CJmzTa6mA6E) (2021)
 - Workshop on [Containerized ML deployment with AWS Lambda](https://datatalks.club/blog/ml-deployment-lambda.html) (2020): [Repo](https://github.com/sejalv/serverless-ml-workshop) | [Video](https://www.youtube.com/watch?v=79B8AOKkpho) | [Article](https://sejalv.medium.com/containerized-ml-deployment-with-aws-lambda-680540fb92f4)
 
