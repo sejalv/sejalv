@@ -2,7 +2,7 @@
 - Data professional, with 13+ years of experience in building user-centric data products and scalable data architectures in B2C and B2B environments, for Healthcare, Digital Health & Wellbeing, and e-Commerce sectors
 - Proven expertise with leveraging machine learning to derive actionable insights, collaborating cross-functionally with diverse stakeholders on complex technical requirements, and enabling data-driven decision-making to shape effective product and business strategies
 - Volunteer for the [DataTalks.Club](https://datatalks.club/people/sejalvaidya.html) and local Berlin meetups: MLOps Zoomcamp (course instructor), featured in [podcast](https://youtu.be/CJmzTa6mA6E) interviews and conducted AWS workshops
-- More info here: [LinkedIn](https://linkedin.com/in/vaidyasejal) | [Personal Website]([https://datatalks.club/people/sejalvaidya.html](https://sejalvaidya.com))
+- More info here: [LinkedIn](https://linkedin.com/in/vaidyasejal) | [Personal Website](https://sejalvaidya.com)
 
 <br>
 
