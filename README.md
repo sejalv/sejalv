@@ -9,7 +9,7 @@
 
 ### 📢 &nbsp; Independent & Community contributions:
 
-#### [DataTalks.Club](https://datatalks.club/)
+#### DataTalks.Club
 - Co-Instructor for popular courses - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) and [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - with 20k signups
 - Podcast interview for DTC mini's: [Data Engineering to MLOps](https://youtu.be/CJmzTa6mA6E) (2021)
 - Workshop on [Containerized ML deployment with AWS Lambda](https://github.com/sejalv/serverless-ml-workshop) (2020)
