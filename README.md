@@ -3,7 +3,6 @@
 - Proven track record in reliable and high-impact data systems, embedding platform thinking within cross-functional teams, and shaping data strategies aligned with long-term business goals
 - Currently focused on Data Architecture and Platform Leadership, by leveraging modular infrastructure design to empower analytics, ML, and product growth
 - Speaker & Mentor for local Berlin communities
-- More info here: [LinkedIn](https://linkedin.com/in/vaidyasejal) | [Personal Website](https://sejalvaidya.com)
 
 <br>
 
