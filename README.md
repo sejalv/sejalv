@@ -1,6 +1,6 @@
 ### 💼 &nbsp; Bio
-- Data professional, with 14+ years of Tech industry experience building scalable data platforms in Digital Health, FinTech and e-Commerce
-- Proven track record in reliable and high-impact data systems, embedding platform thinking within cross-functional teams, and shaping data strategies aligned with long-term business goals
+- Data/ML platform engineer, with 14+ years of experience in e-Commerce, Digital Health, and FinTech.
+- Proven track record in reliable and high-impact data systems, embedding platform thinking within cross-functional teams, and shaping data strategies aligned with product innovation and business growth
 - Currently focused on Data Architecture and Platform Leadership, by leveraging modular infrastructure design to empower analytics, ML, and product growth
 - Speaker & Mentor for local Berlin communities
 
