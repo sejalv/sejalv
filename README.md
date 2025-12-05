@@ -1,18 +1,5 @@
 ### 💼 &nbsp; Bio
-- Data/ML platform engineer, with 14+ years of experience in e-Commerce, Digital Health, and FinTech.
-- Proven track record in reliable and high-impact data systems, embedding platform thinking within cross-functional teams, and shaping data strategies aligned with product innovation and business growth
-- Currently focused on Data Architecture and Platform Leadership, by leveraging modular infrastructure design to empower analytics, ML, and product growth
-- Speaker & Mentor for local Berlin communities
-
-<br>
-
-### 📢 &nbsp; Independent & Community contributions:
-
-#### DataTalks.Club
-- Co-Instructor for popular courses - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) and [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - with 20k signups
-- Podcast interview for DTC mini's: [Data Engineering to MLOps](https://youtu.be/CJmzTa6mA6E) (2021)
-- Workshop on [Containerized ML deployment with AWS Lambda](https://github.com/sejalv/serverless-ml-workshop) (2020)
-
-#### Misc
-- Podcast interview: [Data Engineering Confessions](https://www.dataengineering.academy/pipeline-data-engineering-academy-blog/idataengineer-confessions-interview-003) with [Pipeline Data Engineering Academy](https://www.dataengineering.academy/) (2020)
-- Article: [SQL in a Nutshell](https://towardsdatascience.com/sql-in-a-nutshell-part-1-basic-real-world-scenarios-33a25ba8d220), published in [Towards Data Science](https://towardsdatascience.com)
+- With 14+ years of experience in e-Commerce, Digital Health, and FinTech, building and scaling data platforms to empower organisations with decision-making systems and high-leverage tooling.
+- Proven track record in reliable and high-impact data systems for pricing experimentation, A/B testing infrastructure, and data platform foundations; cross-team enablement for analytics, ML, and product; managing diverse data teams, and shaping data strategy for product innovation and business growth.
+- Recently consulted growth-stage startups on self-service analytics.
+- [Speaker](https://youtu.be/CJmzTa6mA6E) & [Mentor](https://github.com/DataTalksClub/mlops-zoomcamp) for local Berlin communities. I write about tech, data, and culture.
