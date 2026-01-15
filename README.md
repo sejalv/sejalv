@@ -1,5 +1,11 @@
 ### 💼 &nbsp; Bio
-- With 14+ years of experience in e-Commerce, Digital Health, and FinTech, building data platforms and scaling ML infrastructure to empower organisations with decision-making systems and high-leverage tooling.
-- Proven track record in designing reliable and modern data architecture for SaaS-based healthcare analytics, scaling ML-driven pricing experimentation, and enabling analytics, ML, & product teams.
-- Recently consulted growth-stage startups on data platform foundations to enable self-service analytics, and shaping data strategy for product innovation and business growth.
-- [Speaker](https://youtu.be/CJmzTa6mA6E) & [Mentor](https://github.com/DataTalksClub/mlops-zoomcamp) for local Berlin communities. I write about tech, data, and culture.
+With 15+ years across Digital Health, Fintech, and e-Commerce, I have led initiatives to scale ML infrastructure for pricing experimentation, enable healthcare research, and improve product adoption to 39+ MM users. Most recently, I have consulted growth-stage startups on data platform foundations, decision-making systems, and data strategy for product innovation and business growth.
+
+I am passionate about climate tech & sustainability, fostering an inclusive environment, and promoting gender diversity through public speaking & community building. I write about tech, data, and culture.
+
+Areas of Focus:
+- Data Strategy: Domain-driven roadmap aligned with Product, Engineering & Business
+- Data & ML infrastructure: Modernizing data architecture
+- Engineering Leadership: Managing diverse data teams as a player-coach
+- Cross-team collaboration: Influencing stakeholders and executives with clarity
+- [Speaker](https://youtu.be/CJmzTa6mA6E) & [Mentor](https://github.com/DataTalksClub/mlops-zoomcamp) for local Berlin communities
