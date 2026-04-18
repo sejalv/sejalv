@@ -1,5 +1,5 @@
 ### 💼 &nbsp; Bio
-With 15+ years across Digital Health, e-Commerce, and Fintech, I have led initiatives to scale ML infrastructure for pricing experimentation, enable regulated healthcare research, and improve product adoption at scale. Most recently, I have consulted growth-stage startups on platform foundations, user-centric data products, and data strategy for product innovation and experimentation velocity.
+With 15+ years across Digital Health, e-Commerce, and Fintech, I have led initiatives to scale ML infrastructure for pricing experimentation, enable regulated healthcare research, and improve product adoption at scale. Most recently, I have consulted growth-stage startups on platform foundations, user-centric data products, and data strategy for product innovation and business growth.
 
 I am passionate about climate tech & sustainability, fostering an inclusive environment, and promoting gender diversity through community building. I write about tech, data, and culture.
 
